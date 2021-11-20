@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+
+
+.nav-link:hover{
+    color:darkred;
+}
+footer {
+    text-align: center;
+}
+
+footer a {
+    padding: 0.5em;
+}
